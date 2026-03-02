@@ -1,0 +1,5 @@
+// Example Team configuration for others
+// Copy this to Team.xcconfig and replace with your own Team ID
+
+DEVELOPMENT_TEAM = YOUR_TEAM_ID_HERE
+CODE_SIGN_STYLE = Automatic
